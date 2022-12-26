@@ -1,5 +1,7 @@
 👋 Hi, I'm a Web developer.
 
+Blog: https://citrus327.github.io/blog/
+
 Projects:
 - [Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
 
