@@ -4,6 +4,7 @@ Blog: https://citrus327.github.io/blog/
 
 Projects:
 - [Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
+- [Typus - Complete Type parser(WIP)](https://github.com/BlizzBolts/typus)
 
 <div> 
   <img src="https://github-readme-stats.vercel.app/api?username=citrus327"/>
