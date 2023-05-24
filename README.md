@@ -1,6 +1,6 @@
 👋 Hi, I'm a Web developer.
 
-Blog: https://hophop.work/
+Blog: https://blog.hophop.work/
 
 Projects:
 - [Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
