@@ -1,7 +1,15 @@
-👋 Hi, I'm a Web developer.
+👋 Hi, I'm a Web developer from China. I love doing various experiments across frontend ecosystem.
+
+Currently in ❤️ with [MDX](https://github.com/mdx-js/mdx/) and [Rust](https://www.rust-lang.org/learn)
+
+<hr/>
 
 Blog: https://blog.hophop.work/
+
 Tools: https://tools.hophop.work/
+
+<hr/>
+
 
 Projects:
 - [Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
