@@ -6,8 +6,6 @@ Currently in ❤️ with [MDX](https://github.com/mdx-js/mdx/) and [Rust](https:
 
 Blog: https://blog.hophop.work/
 
-Tools: https://tools.hophop.work/
-
 <hr/>
 
 
