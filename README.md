@@ -2,16 +2,17 @@
 
 Currently in ❤️ with [MDX](https://github.com/mdx-js/mdx/) and [Rust](https://www.rust-lang.org/learn)
 
-<hr/>
+## Sites
 
-Blog: https://blog.hophop.work/
+https://hophop.work
 
-<hr/>
+https://tools.hophop.work
 
 
-Projects:
-- [Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
-- [Typus - Complete Type parser(WIP)](https://github.com/BlizzBolts/typus)
+## Projects:
+[Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
+
+[Typus - Complete Type parser(WIP)](https://github.com/BlizzBolts/typus)
 
 
 <!---
