@@ -1,19 +1,21 @@
-👋 Hi, I'm a Web developer from China. I love doing various experiments across frontend ecosystem.
+👋 Hi, I'm a full-stack developer with 8 years of experience from China.
 
-Currently in ❤️ with [MDX](https://github.com/mdx-js/mdx/) and [Rust](https://www.rust-lang.org/learn)
+I build projects based on market needs and my personal interests. Here are some of my notable sites and projects:
+
 
 ## Sites
-
-https://hophop.work
-
-https://tools.hophop.work
+Check out my blog for more. https://hophop.work
 
 
-## Projects:
-[Docit - Rapid React Documentation](https://github.com/BlizzBolts/docit)
+## Projects
 
-[Typus - Complete Type parser(WIP)](https://github.com/BlizzBolts/typus)
+**Docit**: https://github.com/BlizzBolts/docit
 
+Rapid React Documentation tool.
+
+**Typus**: https://github.com/BlizzBolts/typus
+
+A complete TypeScript type parser (Work in Progress).
 
 <!---
 citrus327/citrus327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
