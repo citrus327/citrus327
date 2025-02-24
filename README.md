@@ -1,6 +1,6 @@
 👋 Hi, I'm a full-stack developer with 8 years of experience from China.
 
-I build projects based on market needs and my personal interests, currently building my own product.
+I build projects based on market needs and my personal interests.
 
 
 ## Sites
