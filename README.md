@@ -1,10 +1,6 @@
-👋 Hi, I'm a full-stack developer with 8 years of experience from China.
+👋 Hi, I'm a full-stack developer with 10 years of experience from China.
 
-I build projects based on market needs and my personal interests.
-
-
-## Sites
-Check out my blog for more. https://hophop.work
+I build projects based on market needs and my personal interests, currently working on TapNow
 
 
 ## Projects
